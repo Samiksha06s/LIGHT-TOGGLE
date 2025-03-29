@@ -28,3 +28,9 @@ This is an iOS app created as part of the **Develop in Swift Fundamentals** book
 1. Tap the toggle button to switch between the **On** (white screen) and **Off** (black screen) states.
 2. The screen color will change each time you press the button.
 
+**OUTPUT:**
+
+https://github.com/user-attachments/assets/1d5d931e-2cda-4523-bc3a-d2e8be09f95d
+
+
+
